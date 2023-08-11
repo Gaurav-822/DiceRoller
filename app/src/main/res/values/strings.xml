@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="test">TESTING</string>
+    <string name="roll">ROLL</string>
+    <string name="check">Roll the Dice ;)</string>
+    <string name="credits">Made by Gaurav</string>
+</resources>
